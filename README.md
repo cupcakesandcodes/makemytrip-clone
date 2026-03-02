@@ -115,14 +115,6 @@ To run this project, you will need to add the following environment variables to
  - [Masai School](https://masaischool.com/)
   
 
-## Authors
-
--  [Arpit Sachan](https://github.com/sachanarpit/)
-
-- [Dharmesh Yadav](https://github.com/dharmeshrao)
-
-- [Rahul Kumar Yadav](https://github.com/rahulyadav96)
-
 
 ## Home Page
 
@@ -153,4 +145,3 @@ To run this project, you will need to add the following environment variables to
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1636819997027/85PGB_l7i.png)
 
 
-- GITHUB - https://github.com/sachanarpit/make-my-trip
